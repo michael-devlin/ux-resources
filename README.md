@@ -34,7 +34,7 @@ https://www.codegram.com/blog/but-lighthouse-says-i-am-accessible-part-two/
 
 https://dev.to/adrianengine/accessibility-beyond-scores-369b
 
-## Optional Further Info
+## Optional Further Info 📚
 
 https://css-tricks.com/the-great-divide/ (Great read on the difference between 'UX Engineering' and 'JavaScript Engineering'. It's pretty long but well worth a read at some point)
 
