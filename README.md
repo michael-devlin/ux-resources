@@ -17,6 +17,9 @@ https://grid.layoutit.com/
 Styled Components:
 https://github.com/styled-components/styled-components
 
+Styled Components extension for VS Code (essential!!):
+https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
+
 Bootstrap:
 https://getbootstrap.com/docs/3.4/css/
 
