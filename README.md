@@ -9,6 +9,14 @@ https://www.notion.so/1c13c4deef004d73b29eff0ceac912a2?v=2b9d7a9c6bdf4345aeb0b13
 Behance: 
 https://www.behance.net/
 
+## Icons
+
+Icon Finder:
+https://www.iconfinder.com/
+
+Figma Community Icons:
+https://www.figma.com/community/icons
+
 ## UX Engineering/Tools 🛠️
 
 CSS Grid Layout:
