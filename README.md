@@ -6,6 +6,9 @@ A list of resources for UX and design
 Shaya's (FAC20) Notion: 
 https://www.notion.so/1c13c4deef004d73b29eff0ceac912a2?v=2b9d7a9c6bdf4345aeb0b13dfc6705a6
 
+Geometric SVGs:
+https://www.geometrize.co.uk/
+
 Behance: 
 https://www.behance.net/
 
